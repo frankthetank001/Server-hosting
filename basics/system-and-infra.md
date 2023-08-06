@@ -7,9 +7,7 @@ Your internet connection and CPU will make or break your HoN hosting career.
 * You should have at most 100 ping against the region you wish to host. You can test ping against the entire world here: [World ping test](https://www.meter.net/tools/world-ping-test/)
 
 ## CPU & RAM
-Each server instance requires 1 core at at least 1.7 ghz and between 500-800 mb of ram with a **STR** *(Single Thread Rating)* of 1250. However its **recommended** to do 1.5-2 cores for every server instance.
-
-**Example:** `8 game servers * 1.5 cores = 12 cpu cores`
+Each server instance requires 1 dedicated CPU core at least 1.7 ghz and between 500-800 mb of ram with a **STR** *(Single Thread Rating)* of 1250.
 
 ### CPUs confirmed working with # instances
 
